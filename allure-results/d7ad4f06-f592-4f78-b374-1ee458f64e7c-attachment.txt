@@ -1,0 +1,33 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                         Test Method: 'ExistingMailTests.validateRegisterExistingEmail'                                         
+                                       Test Description: 'Validate user Registers with an existing email'                                       
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @05-10-2024 20:04:11.0572 PM
+[ReportManager] Initial URL: "about:blank" @05-10-2024 20:04:11.0602 PM
+[ReportManager] Navigate to url "https://automationexercise.com/". @05-10-2024 20:04:21.0153 PM
+[ReportManager] Verify that the element located by "By.xpath: //a[@style="color: orange;"]" text contains "Home". @05-10-2024 20:04:21.0217 PM
+[ReportManager] Expected "Home", and actual "Home" @05-10-2024 20:04:21.0538 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-04-33-576_05102024' @05-10-2024 20:04:33.0591 PM
+[ReportManager] Expected "Home", and actual "Home" @05-10-2024 20:04:33.0607 PM
+[ReportManager] Verification passed @05-10-2024 20:04:33.0607 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 20:04:33.0883 PM
+[ReportManager] Click "By.xpath: //a[@href="/login"]//i[@class="fa fa-lock"]". @05-10-2024 20:04:37.0649 PM
+[ReportManager] Verify that the element located by "By.xpath: //div[@class="signup-form"]//h2" text contains "New User Signup!". @05-10-2024 20:04:37.0653 PM
+[ReportManager] Expected "New User Signup!", and actual "New User Signup!" @05-10-2024 20:04:37.0871 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-04-39-125_05102024' @05-10-2024 20:04:39.0125 PM
+[ReportManager] Expected "New User Signup!", and actual "New User Signup!" @05-10-2024 20:04:39.0141 PM
+[ReportManager] Verification passed @05-10-2024 20:04:39.0141 PM
+[ReportManager] Text cleared Using Native Clear @05-10-2024 20:04:39.0315 PM
+[ReportManager] Type "Sam" into "Name". @05-10-2024 20:04:39.0401 PM
+[ReportManager] Text cleared Using Native Clear @05-10-2024 20:04:39.0575 PM
+[ReportManager] Type "Sam@yahoo.com" into "Email Address". @05-10-2024 20:04:39.0698 PM
+[ReportManager] Moved the mouse to the middle of the element. @05-10-2024 20:04:39.0921 PM
+[ReportManager] Click "Signup". @05-10-2024 20:04:42.0047 PM
+[ReportManager] Verify that the element located by "By.xpath: //p[@style="color: red;"]" text contains "Email Address already exist!". @05-10-2024 20:04:42.0052 PM
+[ReportManager] Expected "Email Address already exist!", and actual "Email Address already exist!" @05-10-2024 20:04:42.0265 PM
+[ReportManager] Successfully created attachment 'Screenshot - Verify_20-04-43-619_05102024' @05-10-2024 20:04:43.0623 PM
+[ReportManager] Expected "Email Address already exist!", and actual "Email Address already exist!" @05-10-2024 20:04:43.0624 PM
+[ReportManager] Verification passed @05-10-2024 20:04:43.0624 PM
